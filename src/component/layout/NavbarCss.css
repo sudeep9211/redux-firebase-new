@@ -1,0 +1,18 @@
+.customClass {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    59deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 37%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  padding: 15px !important;
+}
+.costom {
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+}
+.nav-nav-bar {
+  justify-content: end;
+}
